@@ -1,0 +1,7 @@
+{
+  "name": "Excel LearnHub",
+  "description": "Modul interaktif pembelajaran Microsoft Excel dengan kamus fungsi lengkap, spreadsheet interaktif langsung, dan latihan berbasis evaluasi otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
